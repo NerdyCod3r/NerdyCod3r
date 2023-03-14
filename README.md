@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/sachin680**
 
-- ⚡ Fun fact **Happiness is : When Code runs without errors...**
+- ⚡ Happiness is **: When Code runs without errors...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
